@@ -1,4 +1,4 @@
-# My Fridge - Project Brief
+# Fairways - Project Brief
 A golf related tracker in the form of a dashboard. One page, clean design, mobile first. Modern font and elegant visual design.
 Dark mode preferred with contrasting colorway and appropriate contrast ratios.
 
@@ -9,7 +9,7 @@ Deploys to Vercel as a static site
 
 ## Design
 Multiple card layout, max width 480px
-My Fridge is the name of the app, complimentary neon green and turqoise colorways with white lettering
+Fairways is the name of the app, complimentary neon green and turqoise colorways with white lettering
 Weather tracker app for your region
 This dashboard will track current handicap, scoring average, rounds played using GHIN as the main source of data and statistics
 Simple line and bar graphs to cleanly depict player statistics with a warm color that plays well with the primary green colorway

@@ -1,12 +1,12 @@
-# My Fridge
+# Fairways
 
-My Fridge is a mobile‑first, single‑page golf dashboard designed to help golfers track their performance and organize their bag in a clean, modern interface. Built with pure HTML, CSS, and JavaScript, My Fridge focuses on elegant dark‑mode visuals, simple data displays, and smooth interactions.
+Fairways is a mobile‑first, single‑page golf dashboard designed to help golfers track their performance and organize their bag in a clean, modern interface. Built with pure HTML, CSS, and JavaScript, Fairways focuses on elegant dark‑mode visuals, simple data displays, and smooth interactions.
 
 ---
 
 ## Overview
 
-My Fridge combines two core functions:
+Fairways combines two core functions:
 
 1. **Performance Tracker**
    - Displays current handicap
@@ -79,7 +79,7 @@ The goal is a single, focused dashboard page with a clean layout and ample negat
 
 ## Technology Stack
 
-My Fridge is intentionally lightweight and framework‑free.
+Fairways is intentionally lightweight and framework‑free.
 
 - **HTML**  
   - Single `index.html` file
@@ -107,7 +107,7 @@ My Fridge is intentionally lightweight and framework‑free.
 
 ### GHIN
 
-My Fridge uses **GHIN** as the main source of golf stats (handicap, scoring average, rounds played).
+Fairways uses **GHIN** as the main source of golf stats (handicap, scoring average, rounds played).
 
 - Official site: https://www.ghin.com/
 - Integration approach:
@@ -133,7 +133,7 @@ A weather API (e.g., OpenWeatherMap) is used for regional weather data.
 
 ## Accessibility & Contrast
 
-Because My Fridge is dark‑mode first, attention is given to accessibility:
+Because Fairways is dark‑mode first, attention is given to accessibility:
 
 - High contrast between text and backgrounds
 - Sufficient contrast ratios for neon green and turquoise against dark surfaces
@@ -144,7 +144,7 @@ Because My Fridge is dark‑mode first, attention is given to accessibility:
 
 ## Deployment
 
-My Fridge is deployed as a static site on **Vercel**.
+Fairways is deployed as a static site on **Vercel**.
 
 ### Project Structure
 
